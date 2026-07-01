@@ -9,4 +9,4 @@ def insertionSort(a):
         a[j + 1] = key
     return a  
 
-print(insertionSort([10, 44, 8, 5, 2, 66]))                 
+print(insertionSort([10, 44, 8, 5, 2, 66]))
